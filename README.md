@@ -1,0 +1,1 @@
+Le projet mini-jeu contient trois versions différentes du jeu dans les fichiers app.rb, app_2.rb et app_3.rb.
